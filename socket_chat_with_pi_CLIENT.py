@@ -1,3 +1,4 @@
+#basic server side of the two way communication
 import socket
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
